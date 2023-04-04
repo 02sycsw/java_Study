@@ -4,6 +4,18 @@ public class User {
 	private Ticket ticket;
 	private int left_money;
 	
+	public User() {
+		this.user_name = "손님";
+		this.left_money = 0;
+		this.tel = "010-0000-1111";
+	}
+	
+	public User(String user_name, int left_money, String tel) {
+		this.user_name = user_name;
+		this.left_money = left_money;
+		this.tel = tel;
+	}
+	
 	public String get_user_name() {
 		return user_name;
 	}
