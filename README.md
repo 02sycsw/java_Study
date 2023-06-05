@@ -1,2 +1,2 @@
 # java_Study
- for C++ example about lecture and by myself
+ for java example about lecture and by myself
