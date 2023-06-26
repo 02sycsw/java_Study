@@ -1,0 +1,11 @@
+public enum Language {
+	ENGLISH,
+	KOREAN,
+	JAPANESE,
+	CHINESE,
+	ITALIAN,
+	GERMAN,
+	LATIN,
+	SPANISH,
+	FRENCH;
+}
